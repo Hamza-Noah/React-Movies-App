@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box !important;
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: #131722; 
+  color: #fff;
+  font-family: 'Segoe UI light';
+}
+
+a, a:hover{
+  color: #fff !important;
+}
